@@ -1,0 +1,15 @@
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.csproj.AssemblyReference.cache
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.AssemblyInfoInputs.cache
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.AssemblyInfo.cs
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Pictures\учеба\homework_8\bin\Debug\net6.0\homework_8.exe
+C:\Users\Максим\Pictures\учеба\homework_8\bin\Debug\net6.0\homework_8.deps.json
+C:\Users\Максим\Pictures\учеба\homework_8\bin\Debug\net6.0\homework_8.runtimeconfig.json
+C:\Users\Максим\Pictures\учеба\homework_8\bin\Debug\net6.0\homework_8.dll
+C:\Users\Максим\Pictures\учеба\homework_8\bin\Debug\net6.0\homework_8.pdb
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.dll
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\refint\homework_8.dll
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.pdb
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\homework_8.genruntimeconfig.cache
+C:\Users\Максим\Pictures\учеба\homework_8\obj\Debug\net6.0\ref\homework_8.dll
